@@ -20,6 +20,7 @@ Hello, World! Hello, Future!
 
 ### 팀 소개
 
+홍준영: 워해머40K와 해파리를 좋아합니다
 
 
 ***
